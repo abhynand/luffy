@@ -342,6 +342,7 @@ footer {
     }
 
     .crewhead {
+        color: black;
         font-size: 8vw;
         text-align: center;
         padding-bottom: 9vh;
